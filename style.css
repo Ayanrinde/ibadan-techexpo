@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.body{
+    background-color: #F5F5F5;
+    /* height: 100vh; */
+}
+
+.nav{
+    background-color: #F5F5F5;
+    display: flex;
+    width: 100%;
+    height: 120px;
+    position: fixed;
+    top: 0;
+}
+
+.text{
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    gap: 850px;
+}
+
+.logo{
+    width: 100px;
+    margin-left: 80px;
+}
+
+.nav1{
+    display: flex;
+    gap: 80px;
+    font-size: 25px;
+}
+
+.get{
+    background-color: #FDB915;
+    border: none;
+    color: white;
+    padding: 5px 20px;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+.main{
+    margin-top: 150px;
+    width: 100%;
+}
+
+.ibadan{
+    margin-left: 70px;
+}
+
+.MAIDEN{
+    display: flex;
+    justify-content: center;
+    gap: 300px;
+    font-size: 25px;
+    color: #224093;
+    font-weight: 500;
+    margin-top: 50px;
+}
+
+.buy{
+    background-color: #FDB915;
+    border: none;
+    color: #224093;
+    padding: 5px 20px;
+    font-size: 20px;
+    border-radius: 5px;
+    margin-top: 50px;
+    margin-left: 70px;
+    margin-right: 70px;
+    font-weight: 500;
+    font-size: 20px;
+    width: 100%;
+    text-align: center;
+    text-decoration: none;
+}
+
+.TICKETS{
+    display: flex;
+    justify-content: center;
+    gap: 300px;
+}
+
+.buy1{
+    /* background-color: #FDB915; */
+    border: 1px solid;
+    color: #224093;
+    padding: 5px 20px;
+    font-size: 25px;
+    border-radius: 5px;
+    margin-top: 50px;
+    margin-left: 70px;
+    margin-right: 70px;
+    font-weight: 500;
+    width: 100%;
+    text-align: center;
+    text-decoration: none;
+}
+
+.Venue{
+    background-color: #5576CF;
+    margin-top: 100px;
+    padding: 120px;
+    width: 92%;
+    margin-left: 70px;
+    border-radius: 8px;
+}
+
+.Venue>h1{
+    color: white;
+    text-align: center;
+}
+
+.Venue>h2{
+    color: white;
+    text-align: center;
+}
+
